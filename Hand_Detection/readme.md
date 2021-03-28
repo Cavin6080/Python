@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>Hand Detection</title>
   </head>
   <body>
     <h1>Step-1</h1>
