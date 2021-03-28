@@ -1,3 +1,4 @@
-You can use requirements.txt for installing  every requirements of this project
+<b>Step-1</b>
+Installing the requirements
+run: <b>pip install -r requirements.txt</b>
 
-<b>HI</b>
