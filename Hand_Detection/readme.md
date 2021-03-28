@@ -1,4 +1,12 @@
-<b>Step-1</b>
-Installing the requirements
-run: <b>pip install -r requirements.txt</b>
-
+<html>
+  <head>
+    <title>Hand Detection</title>
+  </head>
+  <body>
+    <h1>Step-1</h1>
+    <ul>
+      <li>Installing the requirements</li>
+      <b>run: pip install -r requirements.txt</b>
+    </ul>
+  </body>
+</html>
